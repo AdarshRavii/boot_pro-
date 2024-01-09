@@ -1,0 +1,5 @@
+package com.springboot.SpringRest.Controller;
+
+public class EntityController {
+
+}

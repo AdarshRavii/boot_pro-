@@ -1,0 +1,8 @@
+package com.springboot.SpringRest;
+
+import org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration;
+
+public class EntityRepositry extends JpaRepositoriesAutoConfiguration{
+	
+
+}

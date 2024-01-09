@@ -1,0 +1,6 @@
+package com.springboot.SpringRest.Services;
+
+public class EntityService {
+
+	
+}

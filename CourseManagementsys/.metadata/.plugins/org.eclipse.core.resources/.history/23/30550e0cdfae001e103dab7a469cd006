@@ -1,0 +1,5 @@
+package com.springboot.SpringRest.Dao;
+
+public class EntityDao {
+
+}

@@ -1,0 +1,32 @@
+package com.springboot.SpringRest.Controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.springboot.SpringRest.Entity.CourseEntity;
+
+@RestController
+public class EntityController {
+
+	public CourseEntity addCourse()
+	{
+		return CourseEntity;
+	}
+	
+	public CourseEntity getCourse()
+	{
+		return CourseEntity;
+		
+	}
+	
+	public CourseEntity getAllCourse()
+	{
+		
+	}
+	
+	public CourseEntity	deleteCourse()
+	{
+		
+	}
+	
+	
+}
